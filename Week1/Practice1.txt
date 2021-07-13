@@ -1,0 +1,13 @@
+Use C++, with any online compiler such as this one: https://www.onlinegdb.com/online_c++_compiler
+
+Create 3 variables: Altitude, Airspeed, and Temperature and initialize them with any values you'd like 
+
+Print out information to the pilot including:
+  -the 3 variable names and the values (eg Altitude: 200)
+  -If the pilot's airspeed value is above 300 .(eg."too fast")
+  -If the pilot isn't going too fast, then add all the numbers below the speed (eg 1+ 2 +3 +4 +5...45)
+  -if the pilot is flying too low, below 40 or if the pilot is too high, above 2000, or if its just right, and print the result (eg "Too high", or "Just right")
+  -If the temperature is too hot, above 120.44 celsius (eg. "too hot"). If it isn't too hot
+  
+  You can name your variables whatever you want, but make sure the names make sense. Use if/else/else if statements and for loops or while loops, and feel free to ask any question 
+  or refer to the slideshow.
